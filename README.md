@@ -39,12 +39,13 @@ Este é um projeto desenvolvido com **React + Next.js**, que consome a **API pú
 
 ---
 
-## ⚙️ Como Rodar Localmente
+## ⚙️ Como rodar o projeto localmente
 
-**Clone o repositório:**
+Execute os comandos abaixo no terminal:
 
-No terminal digite os comandos abaixo:
+```bash
 git clone https://github.com/AndreSantosDS/weather-app.git
 cd weather-app
 npm install
 npm run dev
+```
